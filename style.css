@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background-color: black;
+}
+
+.nav{
+    background-color: red;
+}
+
+.nav__ul{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav__li{
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    padding: 2px 7px 2px 7px;
+   color: #666;
+   background-color: #eeeeee;
+   border: 1px solid #ccc;
+   text-decoration: none;
+}
+
+div li a{
+    background-color: green;
+    list-style-type: none;
+    text-align: center;
+}
